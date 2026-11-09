@@ -15,3 +15,6 @@ Thumbs.db
 
 # Claude project config
 .claude/
+
+# Local historical files; preserve their original repository paths under legacy
+/legacy/

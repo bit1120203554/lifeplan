@@ -8,6 +8,11 @@ Not a code project. No build, test, lint, or package scripts.
 - Keep responses concrete and actionable; avoid generic advice.
 - `docs/prompt.md` has full background — read it first.
 
+## Historical files
+- Put superseded files under the root `legacy/`, mirroring their original repository-relative paths. For example, `internship/1/archive/x` becomes `legacy/internship/1/archive/x`.
+- `/legacy/` is Git-ignored and is a local archive, not a Git backup. Preserve archived file contents and update links in active documents when moving files.
+- Archive only material clearly superseded or completed; retain current plans, user records, source documents, and reusable materials in their active areas.
+
 ## Layout
 - Each subdirectory is a self-contained task area with its own `README.md`.
 - Active: `phd-apply/` (2027fall PhD), `algorithm-competition/` (Aug 2-3 contest), `internship/` (fallback).

@@ -16,8 +16,8 @@
 
 | 文件 | 说明 |
 |------|------|
-| [study-plan.md](study-plan.md) | 有限时间内的学习计划与知识点清单 |
-| [practice-log.md](practice-log.md) | 刷题记录 |
+| [study-plan.md](../legacy/algorithm-competition/study-plan.md) | 有限时间内的学习计划与知识点清单 |
+| [practice-log.md](../legacy/algorithm-competition/practice-log.md) | 刷题记录 |
 
 ## 历史备战策略
 当时准备时间有限，目标是**高收益知识优先**——只学最可能考且性价比高的知识点。
